@@ -199,7 +199,7 @@ iverilog mux_with_testbench.v
 vvp a.out
 
 # View waveforms
-gtkwave dump.vcd
+gtkwave wave.vcd
 ```
 
 ---
