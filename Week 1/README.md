@@ -206,7 +206,7 @@ gtkwave wave.vcd
 
 ## Exercises
 
-Work through the exercises in exercises/ in order.
+Work through the exercises in exercises/ in order. (which have not been uploaded yet so dont search for them)
 
 Also, the problems on HDLBits will prove to be a good warmup!
 https://hdlbits.01xz.net/wiki/Problem_sets
