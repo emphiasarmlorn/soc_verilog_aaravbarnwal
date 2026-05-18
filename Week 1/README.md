@@ -188,7 +188,9 @@ https://www.youtube.com/@hardwaremodelingusingveril2747/videos
 ## Tool Setup
 
 **iverilog + GTKwave installations**
+
 : **For Windows:** <https://www.youtube.com/watch?v=5Kync4z5VOw>
+
 : **For macOS:** <https://www.youtube.com/watch?v=jUYkYoYr8hs>
 
 **Intel Quartus installation**
