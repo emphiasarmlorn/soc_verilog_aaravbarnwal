@@ -187,6 +187,16 @@ https://www.youtube.com/@hardwaremodelingusingveril2747/videos
 
 ## Tool Setup
 
+**iverilog + GTKwave installations**
+: **For Windows:** <https://www.youtube.com/watch?v=5Kync4z5VOw>
+: **For macOS:** <https://www.youtube.com/watch?v=jUYkYoYr8hs>
+
+**Intel Quartus installation**
+*Alternative for **only** windows users!
+It is a different tool for verilog simulations.
+https://drive.google.com/file/d/1vIsU0gQ6SDXaeZb7p1pX1rfC_uqRzzdY/view
+https://drive.google.com/file/d/1OIKWrYMkiYr5jgqyjTwuSZENV5hBw5pz/view
+
 ```bash
 # Ubuntu/Debian
 sudo apt install iverilog gtkwave
