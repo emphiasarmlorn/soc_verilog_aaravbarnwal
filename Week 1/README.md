@@ -187,6 +187,20 @@ https://www.youtube.com/@hardwaremodelingusingveril2747/videos
 
 ## Tool Setup
 
+**iverilog + GTKwave installations**
+
+: **For Windows:** <https://www.youtube.com/watch?v=5Kync4z5VOw>
+
+: **For macOS:** <https://www.youtube.com/watch?v=jUYkYoYr8hs>
+
+**Intel Quartus installation**
+*Alternative for **only** windows users!
+It is a different tool for Verilog simulations.
+Also, install version **18.1** if any elec people are going to install it
+That's the version that they told us to install, and it mostly will be the same in the next sem.
+https://drive.google.com/file/d/1vIsU0gQ6SDXaeZb7p1pX1rfC_uqRzzdY/view 
+https://drive.google.com/file/d/1OIKWrYMkiYr5jgqyjTwuSZENV5hBw5pz/view
+
 ```bash
 # Ubuntu/Debian
 sudo apt install iverilog gtkwave
@@ -195,18 +209,18 @@ sudo apt install iverilog gtkwave
 brew install icarus-verilog gtkwave
 
 # Compile and simulate
-iverilog tutorial1_with_testbench.v
+iverilog mux_with_testbench.v
 vvp a.out
 
 # View waveforms
-gtkwave dump.vcd
+gtkwave wave.vcd
 ```
 
 ---
 
 ## Exercises
 
-Work through the exercises in exercises/ in order.
+Work through the exercises in exercises/ in order. (which have not been uploaded yet so dont search for them)
 
 Also, the problems on HDLBits will prove to be a good warmup!
 https://hdlbits.01xz.net/wiki/Problem_sets
