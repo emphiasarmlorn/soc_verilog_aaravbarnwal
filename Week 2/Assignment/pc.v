@@ -12,5 +12,14 @@ module pc(
         // if rst:  pc_out = 0
         // if load: pc_out = load_val
         // if inc:  pc_out = pc_out + 1
+        if (rst) begin
+        pc_out <= 0;
+        end
+        else if (load) begin
+        pc_out <= load_val;
+        end
+        else if (inc) begin
+        pc_out <= pc_out + 1;
+        end
     end
 endmodule
